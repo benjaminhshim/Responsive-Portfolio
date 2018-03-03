@@ -320,6 +320,7 @@
     }
 
     /* ---- CONTACT ---- */
+
     .article-contact {
         width: 55%;
         height: 100%;
@@ -360,8 +361,8 @@
        float: none;
    } 
    .portfolio-photo {
-       width: 250px;
-       height: 200px;
+       width: 40%;
+       height: 40%;
        margin: 1rem;
    }
    .portfolio-photo-2,
@@ -387,6 +388,17 @@
     .wrapper{
         padding-top: 100px;
     }   
+
+    .header {
+        position: static;
+        box-shadow: none;
+    }
+    .wrapper {
+        padding-top: 0px;
+    }
+    .main-content {
+        padding-top: 20px;
+    }
     .main-nav {
         width: 100%;
     }
