@@ -318,6 +318,13 @@
         width: 55%;
         height: 100%;
     }
+
+    /* ---- CONTACT ---- */
+    .article-contact {
+        width: 55%;
+        height: 100%;
+        padding-bottom: 40px;
+    }
     
 }
 
@@ -362,6 +369,12 @@
        float: right;
    }
    .aside {
+       float: none;
+   }
+
+   /* ---- CONTACT ---- */
+   .article-contact {
+       width: 100%;
        float: none;
    }
 }
